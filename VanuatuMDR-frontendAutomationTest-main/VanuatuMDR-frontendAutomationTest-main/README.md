@@ -1,0 +1,1 @@
+# VanuatuMDR-frontendAutomationTest
